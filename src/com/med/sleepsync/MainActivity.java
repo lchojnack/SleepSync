@@ -108,7 +108,7 @@ public class MainActivity extends Activity {
         TextView title = text("SleepSync", 30, true);
         root.addView(title);
 
-        TextView version = text("Version 1.1.0", 13, false);
+        TextView version = text("Version 1.2.0", 13, false);
         version.setTextColor(secondaryTextColor);
         version.setPadding(0, dp(2), 0, 0);
         root.addView(version);

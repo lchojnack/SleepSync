@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Add an option to FOLLOW Syncthing while charging with the screen off.
+
 ## 1.1.0
 
 - Add support for multiple Syncthing-Fork package variants instead of assuming a single package ID.
